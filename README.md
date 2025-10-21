@@ -76,9 +76,7 @@ It is a foundational tool for developers exploring **mobile machine learning and
 
 ---
 
-## 📎 Note
-This repository serves as a **portfolio documentation** of the project.  
-Source code and assets are not included due to storage and licensing limitations.
+
 
 📧 **Contact:**  prutvik5617@gmail.com
 🔗 **LinkedIn:** linkedin.com/in/rutvik-patel-38631b189
